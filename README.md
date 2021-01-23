@@ -2,7 +2,7 @@
 
 A super simple roulette app with VueJS and Java.
 
-Based on this <a href="https://github.com/bbachi/vuejs-java-develop-env">codepen</a> created by Bhargav Bachina.
+Based on this <a href="https://github.com/bbachi/vuejs-java-develop-env">code</a> created by Bhargav Bachina.
 
 <h1>How to use:</h1>
 
